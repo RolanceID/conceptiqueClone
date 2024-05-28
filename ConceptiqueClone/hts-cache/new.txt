@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+18:23:22	166/166	---M--	301	error ('Moved%20Permanently')	text/html	date:Tue,%2028%20May%202024%2019:38:04%20GMT	https://conceptique.webnode.com/	C:/My%20Web%20Sites/ConceptiqueClone/conceptique.webnode.com/index.html	(from )
+18:23:22	166/166	---M--	301	error ('Moved%20Permanently')	text/html	date:Tue,%2028%20May%202024%2019:38:04%20GMT	https://conceptique.webnode.com/robots.txt		(from )
